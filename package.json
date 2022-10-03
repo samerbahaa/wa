@@ -1,0 +1,19 @@
+{
+  "name": "wa",
+  "version": "1.0.0",
+  "description": "Whatsapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samerbahaa/wa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samerbahaa/wa/issues"
+  },
+  "homepage": "https://github.com/samerbahaa/wa#readme"
+}
